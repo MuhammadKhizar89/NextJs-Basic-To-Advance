@@ -1,4 +1,4 @@
-// File: E:\Web Development\Advance Next.js\the-wild-oasis-website\app\cabins\page.js
+// File: E:\Web Development\Next JS\Advance Next.js\the-wild-oasis-website\app\cabins\page.js
 import * as entry from '../../../../app/cabins/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
